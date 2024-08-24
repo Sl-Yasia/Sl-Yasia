@@ -31,8 +31,6 @@
 
 - 💬 Ask me about anything, **I am happy to help;**
 
-- 📫 How to reach me **queenjesikabot@gmail.com**
-
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sl-yasia&show_icons=true&locale=en&layout=compact" alt="sl-yasia" /></p>
